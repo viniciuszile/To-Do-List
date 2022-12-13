@@ -1,0 +1,6 @@
+create database projeto;
+
+use projeto;
+
+select * from tasks;
+select * from users;
